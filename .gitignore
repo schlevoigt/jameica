@@ -2,3 +2,4 @@ bin
 releases
 plugins
 /test-bin
+hs_err_pid*.log
